@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Wall
+  - Food
+  - Exit
+  - Enemy1
+  - Enemy2
+  - Soda
+  - OutWall
   layers:
   - Default
   - TransparentFX
